@@ -1,7 +1,7 @@
 ### sddassad
 
-stuff go here\n
 https://replit.com/@fredhtu
+stuff go here
 
 <!--
 **gosqib/gosqib** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
