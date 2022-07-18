@@ -1,6 +1,6 @@
 # sddassad
 
-### https://khyreek.github.io/frederictu/
+### https://www.frederictu.com/
 
 
 
