@@ -10,8 +10,12 @@ My name's Frederic and I'm a high school senior (grad. June 2023) from Mississau
 
 🌱 Misc: <br>
 - I like: Psychological thrillers, Badminton, Planning, Big 5 theory, Music, Chess PR, ...
+- T
 
 💬 Reach me by email or LinkedIn -- ffrederictu@gmail.com | www.linkedin.com/in/frederic-tu
+
+
+
 
 <!--
 Here are some ideas to get you started:
