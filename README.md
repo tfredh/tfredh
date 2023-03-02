@@ -1,1 +1,25 @@
-## D
+### Hey 👋
+
+My name's Frederic and I'm a computer science student from Canada. Here's some info about me,
+
+⚡ Work experience: <br>
+
+-   **Software Developer Intern at Prospective Medical Professionals** - Full-stack development on the General Technology team [Toronto, Ontario, Canada | Summer 2022]
+-   **Software Developer Intern at Station-SSCA** - Full stack development on the Security Access Control team [Saint-Denis-de-Brompton, Quebec, Canada | Summer 2022]
+-   **Student Developer Intern @ Our Wave Hub** - Full stack development & iOS prototyping on Co-op [Toronto, Ontario, Canada | Spring 2022]
+-   **Data Analyst Intern @ Engage Peel** - Data visualization on Peel politicians' financial statements on the Data Science team [Peel, Ontario, Canada | Spring 2021]
+
+💬 Reach me by email or LinkedIn! ffrederictu@gmail.com | www.linkedin.com/in/frederic-tu
+
+<!--
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
