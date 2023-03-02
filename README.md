@@ -1,6 +1,6 @@
 ### Hey 👋
 
-My name's Frederic and I'm a computer science student from Canada. Here's some info about me,
+My name's Frederic and I'm a high school student from Mississauga, Ontario, Canada. Here's some info about me,
 
 ⚡ Work experience: <br>
 
