@@ -1,6 +1,6 @@
 ### Hey 👋
 
-My name's Frederic and I'm a high school senior from Mississauga, Ontario, Canada. Here's some info about me,
+My name's Frederic and I'm a high school senior (grad. June 2023) from Mississauga, Ontario, Canada. Here's some info about me,
 
 ⚡ Work experience: <br>
 -   **Software Developer Intern @ [temporarily redacted]** - Full stack development on the General Technology team [Toronto, Ontario, Canada | Oct. 2022 - Mar. 2023]
