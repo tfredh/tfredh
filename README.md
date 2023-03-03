@@ -9,7 +9,7 @@ My name's Frederic and I'm a high school senior (grad. June 2023) from Mississau
 -   **Data Automation Developer  @ Engage Peel** - Python internal tooling development on the Software team [Mississauga, Ontario, Canada | Apr 2021 - Sept. 2021]
 
 🌱 Misc: <br>
-- I like: Psychological thrillers, Badminton, Planning, Big 5 theory, Music, Chess PR (2153), ...
+- I like: Psychological thrillers, Badminton, Planning, Big 5 theory, Music, Chess PR, ...
 - Occasionally: Swim, Rocket League
 - T
 
