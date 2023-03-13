@@ -10,7 +10,7 @@ My name's Frederic and I'm a high school senior (grad. June 2023) from Mississau
 
 🌱 Misc: <br>
 - I enjoy: Psychological thrillers, (Rocket) League (of Legends), Badminton, Planning, Big 5 theory, Music, Chess PR, ...
-- I sometimes: Swim, competitive Calcudoku,
+- I sometimes: Swim, competitive Calcudoku
 - T
 
 💬 You can contact me here -- ffrederictu@gmail.com | www.linkedin.com/in/frederic-tu
