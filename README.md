@@ -3,10 +3,10 @@
 My name's Frederic and I'm a high school senior (grad. June 2023) from Mississauga, Ontario, Canada. Here's some info about me,
 
 ⚡ Work Experience <br>
--   **Software Developer Intern @ [temporarily redacted]** - Full stack development on the General Technology team [Toronto, ON | Oct. 2022 - Mar. 2023]
--   **Software Developer Intern @ [temporarily redacted]** - Full stack development on the Security Access Control team [QC | July 2022 - Sept. 2022]
--   **Software Development Student @ Our Wave Hub** - Full stack development & iOS prototyping on Co-op [Toronto, ON | June 2022 - July 2022]
--   **Data Automation Developer  @ Engage Peel** - Python internal tooling development on the Software team [Mississauga, ON | Apr 2021 - Sept. 2021]
+-   **Software Developer Intern @ [redacted]** - Full stack development on the General Technology team
+-   **Software Developer Intern @ [redacted]** - Full stack development on the Security Access Control team
+-   **Software Development Student @ Our Wave Hub** - Full stack development & iOS prototyping on Co-op
+-   **Data Automation Developer  @ Engage Peel** - Python internal tooling development on the Software team
 
 🌱 Misc <br>
 - I enjoy: Psychological thrillers, (Rocket) League (of Legends), Badminton, Planning, Big 5 theory, Music, Chess PR, ...
@@ -15,6 +15,8 @@ My name's Frederic and I'm a high school senior (grad. June 2023) from Mississau
 - Canadian citizen only
 
 💬 You can contact me here -- ffrederictu@gmail.com | www.linkedin.com/in/frederic-tu
+
+
 
 
 
