@@ -8,8 +8,10 @@ My name's Frederic and I'm a high school senior (grad. June 2023) from Mississau
 -   **Software Development Student @ Our Wave Hub** - Full stack development & iOS prototyping on Co-op
 -   **Data Automation Developer  @ Engage Peel** - Python internal tooling development on the Software team
 
-🌱 Misc <br />
-- Citizenships: Canada
+
+Current Focus: Web Development
+Citizenships: Canada
+
 
 💬 You can contact me here -- ffrederictu@gmail.com | www.linkedin.com/in/frederic-tu
 <br />
