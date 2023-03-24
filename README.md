@@ -13,7 +13,7 @@ My name's Frederic and I'm a high school senior (grad. June 2023) from Mississau
 
 💬 You can contact me here -- ffrederictu@gmail.com | www.linkedin.com/in/frederic-tu
 <br />
-Personal Website: uhh
+💬 Personal Website: uhh
 
 
 
