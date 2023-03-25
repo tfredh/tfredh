@@ -1,16 +1,8 @@
 ### Hey 👋
 
-My name's Frederic and I'm a high school senior (grad. June 2023) from Mississauga, Ontario, Canada. Here's some info about me,
-
-⚡ Work Experience <br/>
--   **Software Developer Intern @ [redacted]** - Full stack development on the General Technology team
--   **Software Developer Intern @ [redacted]** - Full stack development on the Security Access Control team
--   **Software Development Student @ Our Wave Hub** - Full stack development & iOS prototyping on Co-op
--   **Data Automation Developer  @ Engage Peel** - Python internal tooling development on the Software team
+My name's Frederic and I'm a high school senior (grad. June 2023) from Mississauga, Ontario, Canada. 
 
 
-Current Focus: Web Development
-<br/>
 Citizenships: Canada
 
 
