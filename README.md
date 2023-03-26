@@ -6,7 +6,7 @@ My name's Frederic and I'm a high school senior (grad. June 2023) from Mississau
 Citizenships: Canada
 
 
-💬 You can contact me here -- ffrederictu@gmail.com | www.linkedin.com/in/frederic-tu
+💬 You can contact me here -- <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" height=38 align=center>ffrederictu@gmail.com | www.linkedin.com/in/frederic-tu
 <br/>
 💬 Personal Website: uhh
 
