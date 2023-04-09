@@ -1,9 +1,7 @@
 ### Hey 👋
 
-My name's Frederic and I'm a high school senior (grad. June 2023) from Mississauga, Ontario. 
-
-
-Citizenships: Canada
+My name's Frederic and I'm a high school senior (grad. June 2023) from Mississauga, Ontario. <br>
+**Citizenships**: Canada
 
 
 💬 You can contact me here -- [<img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" height=15 align=center>](mailto:ffrederictu@gmail.com) ffrederictu@gmail.com | [<img src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" height=20 align=center>](https://www.linkedin.com/in/frederic-tu) www.linkedin.com/in/frederic-tu
