@@ -1,6 +1,6 @@
 ### Hey 👋
 
-My name's Frederic and I'm a high school senior (grad. June 2023) from Mississauga, Ontario, Canada. 
+My name's Frederic and I'm a high school senior (grad. June 2023) from Mississauga, Ontario. 
 
 
 Citizenships: Canada
