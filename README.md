@@ -3,7 +3,9 @@
 I'm Frederic from Mississauga, Ontario. <br>
 
 
-💬 You can contact me here -- [<img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" height=15 align=center>](mailto:frederictuwork@gmail.com) frederictuwork@gmail.com | [<img src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" height=20 align=center>](https://www.linkedin.com/in/frederic-tu) www.linkedin.com/in/frederic-tu
+💬 You can contact me here
+- [<img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" height=15 align=center>](mailto:frederictuwork@gmail.com) frederictuwork@gmail.com
+- [<img src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" height=20 align=center>](https://www.linkedin.com/in/frederic-tu) www.linkedin.com/in/frederic-tu
 <br/>
 💬 Personal Website: imaginary
 
