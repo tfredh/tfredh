@@ -1,6 +1,10 @@
 ### Hey 👋
 
-I'm Frederic from Mississauga, Ontario. <br>
+I'm Frederic from Mississauga, Ontario. Studying @ University of Toronto. Previously dev. @ Dayforce.
+
+Happy to collab.
+
+<br>
 
 
 💬 You can contact me here
