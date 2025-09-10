@@ -1,5 +1,7 @@
 ### Hey 👋
 
+<!--
+
 I'm Frederic from Mississauga, Ontario. Studying @ University of Toronto. Previously intern @ Ericsson, Dayforce.
 
 Happy to collab.
@@ -12,7 +14,9 @@ Happy to collab.
 - [<img src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" height=20 align=center>](https://www.linkedin.com/in/frederic-cc) www.linkedin.com/in/frederic-cc
 <br/>
 💬 Personal Website: imaginary
+-->
 
+-
 
 <!--
 [<img src="t" height=38 align=center>](https://www.example.com) &nbsp;
